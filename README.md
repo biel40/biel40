@@ -1,6 +1,6 @@
 ### Hello there!
 
-### Welcome to my personal GitHub profile. Here you will find some personal information about all the technologies in which I have been working for these past years as a Fullstack Web Developer. I hope you enjoy!
+<p> Welcome to my personal GitHub profile. Here you will find some personal information about all the technologies in which I have been working for these past years as a Fullstack Web Developer. I hope you enjoy! </p>
 
 ### :hammer_and_wrench: Languages and Tools: 
 <div>
@@ -21,7 +21,7 @@
 ### :fire: My personal GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=biel40&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biel40)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-biel40&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biel40&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **biel40/biel40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

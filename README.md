@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello there! I'm Gabriel
+# 👋 Hello there! I'm Gabriel Borrás
 
 ### Fullstack Web Developer | .NET & Angular Specialist
 

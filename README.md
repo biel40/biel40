@@ -73,12 +73,7 @@ const gabriel = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel40&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel40&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biel40&theme=vision-friendly-dark" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -88,7 +83,7 @@ const gabriel = {
 - 🔭 Building enterprise-level applications with .NET and Angular
 - 🌱 Deepening knowledge in Clean Architecture and Domain-Driven Design
 - 👯 Open to collaborate on interesting .NET or Angular projects
-- ⚡ Fun fact: I love videogames!
+- ⚡ Fun fact: I REALLY love videogames!
 
 ---
 
@@ -105,7 +100,3 @@ I'm always interested in connecting with fellow developers and discussing new pr
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=biel40&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-</div>
